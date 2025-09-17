@@ -235,7 +235,7 @@ p{
     background: linear-gradient(
         rgba(0, 0, 0, 0.5),
          rgba(0, 0, 0, 0.5)),
-         url(../imag/Historia.webp);
+         url(../../imagenes/Historia.webp);
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
@@ -252,7 +252,7 @@ p{
     background: linear-gradient(
         rgba(0, 0, 0, 0.5),
          rgba(0, 0, 0, 0.5)),
-         url(../imag/naturaleza.jpg);
+         url(../../imagenes/naturaleza.jpg);
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
@@ -269,7 +269,7 @@ p{
     background: linear-gradient(
         rgba(0, 0, 0, 0.5),
          rgba(0, 0, 0, 0.5)),
-         url(../imag/cultura.jpg);
+         url(../../imagenes/cultura.jpg);
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
@@ -286,7 +286,7 @@ p{
     background: linear-gradient(
         rgba(0, 0, 0, 0.5),
          rgba(0, 0, 0, 0.5)),
-         url(../imag/experiencias1.jpg);
+         url(../../imagenes/experiencias1.jpg);
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
